@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Flouis0
 - 👀 I’m interested in ... Fashion and tech
-- 🌱 I’m currently learning ...Sofware developer
-- 💞️ I’m looking to collaborate on ...Advance software developer
-- 📫 How to reach me ...By demonstrating step by step the procedure
+- 🌱 I’m currently learning ...Sofware developement
+- 💞️ I’m looking to collaborate on ... creating app to solve an app that's unique
+- 📫 How to reach me ...By emailing @fordlouis988@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I speack three languages
 
