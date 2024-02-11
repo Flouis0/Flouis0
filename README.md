@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Fashion and tech
 - 🌱 I’m currently learning ...Sofware developer
 - 💞️ I’m looking to collaborate on ...Advance software developer
-- 📫 How to reach me ...By demonstrating step by step 
+- 📫 How to reach me ...By demonstrating step by step the procedure
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I speack three languages
 
